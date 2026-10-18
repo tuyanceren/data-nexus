@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-## Arkadaşına APK
+## APK
 
 Android telefonuna APK kurulur. iPhone APK kurmaz; iOS için ayrı bir derleme gerekir.
 
