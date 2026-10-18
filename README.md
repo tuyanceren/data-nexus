@@ -22,7 +22,7 @@ Varsayılan dil Türkçe. Bugün ekranından İngilizceye geçilebilir. Tema se�
 
 **Notlar.** Fotoğrafın altına not yazılır. Metin boyutu, madde, numaralı liste ve yapılacak listesi seçilir.
 
-![Notlar](docs/screenshots/notlar.png)
+![Notlar](docs/screenshots/notlar.jpg)
 
 **Süre.** Çalışma ve mola ayrı sayılır. Süre hem genel toplama hem seçilen konuya yazılır.
 
